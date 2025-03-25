@@ -1,0 +1,48 @@
+# Python
+*.py[cod]
+__pycache__/
+*.so
+
+# Virtual Environment
+env/
+venv/
+ENV/
+.venv/
+ENV.bak/
+venv.bak/
+
+# SQLite database
+*.sqlite3
+
+# FastAPI
+*.log
+*.pid
+
+# VS Code
+.vscode/
+
+# Pytest
+.cache/
+.tox/
+
+# MyPy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Coverage reports
+htmlcov/
+.coverage
+.coverage.*
+.cache
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+*.db
