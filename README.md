@@ -3,7 +3,6 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.68.0-green.svg)
 ![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)
 ![SQLite](https://img.shields.io/badge/Database-SQLite-lightgrey.svg)
-![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ## Overview
 
